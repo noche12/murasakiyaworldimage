@@ -1,6 +1,6 @@
 {
   "collection": "EPHEMERA",
-  "updated": "2026-11-07",
+  "updated": "2026-11-11",
   "images": [
     {
       "file": "ephemera/20261107/01_Kemu.jpg",
@@ -22,32 +22,32 @@
       "file": "ephemera/20261107/03_Wings.jpg",
       "width": 2000,
       "height": 1500,
-      "sourceSha256": "86764ab63036b3694528744a5655a2f85797f260dbc09a963bf3f3bab9026883",
-      "bytes": 1459816,
+      "sourceSha256": "2b397a52fbec718541dd1c6391f11b3373039cea0cafe3da5433d745f3bf8ae9",
+      "bytes": 1469983,
       "url": "https://noche12.github.io/murasakiyaworldimage/ephemera/20261107/03_Wings.jpg"
     },
     {
       "file": "ephemera/20261107/04_Lingerie.jpg",
       "width": 2000,
       "height": 2000,
-      "sourceSha256": "6bc5779f75998f07299acf5589dfcd82b902777d83fab92f44250343cb604124",
-      "bytes": 1480135,
+      "sourceSha256": "2303eda71b37949fe016c2188b634f56aa098881e0e4de63f55e173734a0e83b",
+      "bytes": 1488238,
       "url": "https://noche12.github.io/murasakiyaworldimage/ephemera/20261107/04_Lingerie.jpg"
     },
     {
       "file": "ephemera/20261107/05_Costume.jpg",
       "width": 2000,
       "height": 2000,
-      "sourceSha256": "72608fb6ba8e2c266251d4e936729978c1a7f3e5fdf5763f271d38cfde96ed88",
-      "bytes": 2095912,
+      "sourceSha256": "ed7b6a77de648b46342750d4d37e486fb31a703226be3963c6808fc388bbe7b2",
+      "bytes": 2103044,
       "url": "https://noche12.github.io/murasakiyaworldimage/ephemera/20261107/05_Costume.jpg"
     },
     {
       "file": "ephemera/20261107/06_HeadButterfly.jpg",
       "width": 2000,
       "height": 2000,
-      "sourceSha256": "b7aaa0741a4c15614ba1ed2bed38de215c237f1381244ace82c08f68e3473e66",
-      "bytes": 1286341,
+      "sourceSha256": "ea82459f0a60815ef93874ece902c027f7f1c78588e009c2f93db6cab9bb20c3",
+      "bytes": 1289195,
       "url": "https://noche12.github.io/murasakiyaworldimage/ephemera/20261107/06_HeadButterfly.jpg"
     },
     {
@@ -86,16 +86,16 @@
       "file": "ephemera/20261107/11_OutfitMenu.jpg",
       "width": 2000,
       "height": 2000,
-      "sourceSha256": "0addc5ce5c076976358145dccd402ecf053127f09ee0f69f8e1a6290fcc6a43a",
-      "bytes": 1233147,
+      "sourceSha256": "fd8b45b527bd724cac7e2ae0660822293b6dc89297fac99d7e7d26c068f808db",
+      "bytes": 1243171,
       "url": "https://noche12.github.io/murasakiyaworldimage/ephemera/20261107/11_OutfitMenu.jpg"
     },
     {
       "file": "ephemera/20261107/12_CostumeContents.jpg",
       "width": 2000,
       "height": 2000,
-      "sourceSha256": "c4b93db4e7698841ed582100e1ee0ed975bd4709e115d8a7b89e83391a8c4546",
-      "bytes": 1817357,
+      "sourceSha256": "2b35432a4f911d61de4b70c45387ca86972728b034138f8e3320dbb821a6e235",
+      "bytes": 1824214,
       "url": "https://noche12.github.io/murasakiyaworldimage/ephemera/20261107/12_CostumeContents.jpg"
     }
   ]
